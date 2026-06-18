@@ -1,6 +1,6 @@
 # FedProIn
 
-This repository accompanies our MICCAI 2026 submission. It provides the full training pipeline used in our experiments on the HAM10000 (skin lesion) and MATEK19 (blood cell morphology) benchmarks.
+This repository accompanies our MICCAI 2026 submission. It provides the full training pipeline used in our experiments on the HAM10000 and MATEK19 benchmarks.
 
 ---
 
