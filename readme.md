@@ -65,6 +65,8 @@ pip install -r requirements.txt
 Datasets are **not included** in this repository. Download them separately and place them as described below. All dataset files go under `dataset/` in the repo root.
 
 Dowload from the below links, then place the files in the dataset directory.
+for HAM10000: https://www.kaggle.com/datasets/blueloki/ham10000
+For MATEK19: https://www.kaggle.com/datasets/blueloki/matek19
 
 
 ## Configuration
